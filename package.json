@@ -1,0 +1,12 @@
+{
+  "name": "infofouineur",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "ROSO_FR",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0"
+  }
+}
